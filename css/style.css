@@ -1,9 +1,30 @@
-
-body{background-color: rgb(222, 245, 247);
-}
-
-h1{font-family:"Sofia", Lucida Handwriting; 
+body{ background-color: rgb(198, 255, 247);
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
 }
 
+#h1{
+    color: rgb(255, 255, 255);
+    background-color: #ff1c99;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
 
+#navbar{ 
+    background-color: rgb(24, 206, 167);
+    font-weight: 500; 
+
+}
+
+
+#listitem{ font-size: small;
+
+}
+
+.custom-btn {
+    background-color: #2ac19b; 
+    color: #fff;
+}
+
+.custom-btn:hover {
+    background-color: #2ac19b;
+}
